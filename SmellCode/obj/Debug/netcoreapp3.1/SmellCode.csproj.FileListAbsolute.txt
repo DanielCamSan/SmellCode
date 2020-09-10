@@ -1,0 +1,13 @@
+C:\Users\59177\Desktop\6 Semestre\Arquitectura\SmellCode\SmellCode\bin\Debug\netcoreapp3.1\SmellCode.exe
+C:\Users\59177\Desktop\6 Semestre\Arquitectura\SmellCode\SmellCode\bin\Debug\netcoreapp3.1\SmellCode.deps.json
+C:\Users\59177\Desktop\6 Semestre\Arquitectura\SmellCode\SmellCode\bin\Debug\netcoreapp3.1\SmellCode.runtimeconfig.json
+C:\Users\59177\Desktop\6 Semestre\Arquitectura\SmellCode\SmellCode\bin\Debug\netcoreapp3.1\SmellCode.runtimeconfig.dev.json
+C:\Users\59177\Desktop\6 Semestre\Arquitectura\SmellCode\SmellCode\bin\Debug\netcoreapp3.1\SmellCode.dll
+C:\Users\59177\Desktop\6 Semestre\Arquitectura\SmellCode\SmellCode\bin\Debug\netcoreapp3.1\SmellCode.pdb
+C:\Users\59177\Desktop\6 Semestre\Arquitectura\SmellCode\SmellCode\obj\Debug\netcoreapp3.1\SmellCode.csprojAssemblyReference.cache
+C:\Users\59177\Desktop\6 Semestre\Arquitectura\SmellCode\SmellCode\obj\Debug\netcoreapp3.1\SmellCode.AssemblyInfoInputs.cache
+C:\Users\59177\Desktop\6 Semestre\Arquitectura\SmellCode\SmellCode\obj\Debug\netcoreapp3.1\SmellCode.AssemblyInfo.cs
+C:\Users\59177\Desktop\6 Semestre\Arquitectura\SmellCode\SmellCode\obj\Debug\netcoreapp3.1\SmellCode.csproj.CoreCompileInputs.cache
+C:\Users\59177\Desktop\6 Semestre\Arquitectura\SmellCode\SmellCode\obj\Debug\netcoreapp3.1\SmellCode.dll
+C:\Users\59177\Desktop\6 Semestre\Arquitectura\SmellCode\SmellCode\obj\Debug\netcoreapp3.1\SmellCode.pdb
+C:\Users\59177\Desktop\6 Semestre\Arquitectura\SmellCode\SmellCode\obj\Debug\netcoreapp3.1\SmellCode.genruntimeconfig.cache
